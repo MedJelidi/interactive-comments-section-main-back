@@ -10,6 +10,8 @@
 
 This project is about building a custom interactive comments section similar to the ones used in social media applications. Built to complete a [challenge](https://www.frontendmentor.io/challenges/interactive-comments-section-iG1RugEG9) on [Frontend Mentor](https://www.frontendmentor.io/).
 
+This is a working front-end solution. To add the front-end solution, head over to [this](https://github.com/MedJelidi/interactive-comments-section-main) repository.
+
 ## Getting Started <a name = "getting_started"></a>
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
